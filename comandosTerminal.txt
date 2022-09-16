@@ -1,0 +1,1 @@
+ls: listar elementoas por la consola
