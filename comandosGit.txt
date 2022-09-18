@@ -3,3 +3,5 @@ git status:permite conocer en que harea estan los cambios
 gid add:
 	atajos:
 	. agega todos los achovos
+llave:123
+
